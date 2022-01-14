@@ -5,12 +5,12 @@
 ### Examining the most reviewed product
 
 **Rating for the most reviewed product**
-<img src="images/visualization1.jpg?raw=true"/>
+<img src="images/visualization1.png?raw=true"/>
 
 **Product rating analysis as general**
-<img src="images/visualization2.jpg?raw=true"/>
+<img src="images/visualization2.png?raw=true"/>
 
 **Sentiment Analysis**
 
 0 - 1 is for negative sentiment, and 1-2 is for positive sentiment
-<img src="images/visualization3.jpg?raw=true"/>
+<img src="images/visualization3.png?raw=true"/>
