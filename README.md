@@ -24,3 +24,6 @@ Performance metrics:
 * 'log_loss': 0.39622654670874996,
 * 'precision': 0.8487520595594068,
 * 'recall': 0.9943165570488991
+
+
+For code: [Notebook](https://github.com/MuafiraThasni/Sentiment-Analysis-of-Amazone-Baby-Product-/blob/main/sentiment_analysis_baby_products.ipynb)
